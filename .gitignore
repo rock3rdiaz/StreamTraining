@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/osx,java,eclipse
 
@@ -61,6 +62,8 @@ local.properties
 .classpath
 
 ### Java ###
+=======
+>>>>>>> f84999015b927479ac75882f04891d826fb88e24
 # Compiled class file
 *.class
 
@@ -83,6 +86,7 @@ local.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### OSX ###
 *.DS_Store
@@ -114,3 +118,5 @@ Temporary Items
 # End of https://www.gitignore.io/api/osx,java,eclipse
 
 
+=======
+>>>>>>> f84999015b927479ac75882f04891d826fb88e24
